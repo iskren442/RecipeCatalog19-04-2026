@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26871580/README.md)
+
 # 🍽️ Каталог за Готварски Рецепти
 
 Курсов проект по **програмиране** —  уеб приложение.
